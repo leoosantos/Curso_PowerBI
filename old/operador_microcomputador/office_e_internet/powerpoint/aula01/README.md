@@ -1,2 +1,0 @@
-#Atividade
-![exercicio](./exercicio.jpg)
