@@ -1,2 +1,0 @@
-# aulaso1
-Aula
